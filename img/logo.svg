@@ -1,0 +1,19 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 89 89">
+  <defs>
+    <linearGradient id="linear-gradient" x1="63.09" y1="21.63" x2="74.91" y2="21.63" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9e00ba"/>
+      <stop offset="0.01" stop-color="#a407c3"/>
+      <stop offset="0.05" stop-color="#ae13d4"/>
+      <stop offset="0.09" stop-color="#b61cdf"/>
+      <stop offset="0.15" stop-color="#ba22e6"/>
+      <stop offset="0.32" stop-color="#bb23e8"/>
+      <stop offset="1" stop-color="#d400c9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="44.5" x2="89" y2="44.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="29.54" y1="41.35" x2="59.46" y2="41.35" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>Artboard 1</title>
+  <path d="M69,27.54a5.91,5.91,0,1,1,5.91-5.91A5.92,5.92,0,0,1,69,27.54Zm0-6a.09.09,0,0,0-.09.09c0,.1.18.1.18,0A.09.09,0,0,0,69,21.54Z" fill="url(#linear-gradient)"/>
+  <path d="M66.5,0h-44A22.52,22.52,0,0,0,0,22.5v44A22.52,22.52,0,0,0,22.5,89h44A22.52,22.52,0,0,0,89,66.5v-44A22.52,22.52,0,0,0,66.5,0ZM82,66.5A15.51,15.51,0,0,1,66.5,82H46.37V77.73A25.33,25.33,0,0,0,69.75,52.57V42.28a1.87,1.87,0,1,0-3.74,0V52.57a21.51,21.51,0,0,1-43,0V42.28a1.87,1.87,0,1,0-3.74,0V52.57A25.34,25.34,0,0,0,42.63,77.73V82H22.5A15.51,15.51,0,0,1,7,66.5v-44A15.51,15.51,0,0,1,22.5,7h44A15.51,15.51,0,0,1,82,22.5Z" fill="url(#linear-gradient-2)"/>
+  <path d="M44.5,15.16a14.92,14.92,0,0,0-15,15V52.57a15,15,0,1,0,29.92,0V30.12A14.92,14.92,0,0,0,44.5,15.16Z" fill="url(#linear-gradient-3)"/>
+</svg>
